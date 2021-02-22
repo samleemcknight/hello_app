@@ -2,7 +2,7 @@
 
 ## "hello, world!"
 
-[x]```git checkout <branch name>```
-[]```git merge submain```
-[]```git checkout <branch name>```
-[]```git push origin <branch name>```
+-[x]```git checkout <branch name>```
+-[x]```git merge submain```
+-[x]```git checkout <branch name>```
+-[x]```git push origin <branch name>```
